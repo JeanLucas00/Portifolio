@@ -70,6 +70,10 @@ body{
     gap: 15px;
 }
 
+.apresentacao__conteudo__lista li{
+    padding-top: 15px;
+}
+
 .apresentacao__links__subtitulo{
     font-family: 'Krona One', sans-serif;
     font-weight: 400;
