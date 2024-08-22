@@ -1,5 +1,3 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 
@@ -16,5 +14,3 @@
 ### Jean Santos
 
 ### Linkedin: https://www.linkedin.com/in/jeansantos00
-
-```
